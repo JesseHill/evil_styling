@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Evil Styling</string>
+    <string name="normal_styling">Normal Styling</string>
+    <string name="evil_styling">Evil Styling</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search ...</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="line_one">Line 1</string>
+    <string name="line_two">Line Two</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+
+</resources>
